@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- **Dawda Borje Kujabi** - _Initial work_ - [dawdaborjekujabi@gmail.com](mailto:dawdaborjekujabi@gmail.com)
+- **Dawda Borje Kujabi** - _Initial work & Maintainer_ - [dawdaborjekujabi@gmail.com](mailto:dawdaborjekujabi@gmail.com)
 - **2M Corp** - _Maintainer_ - [info@2m-corp.com](mailto:info@2m-corp.com)
 
 ## Acknowledgments
